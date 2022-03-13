@@ -1,0 +1,737 @@
+;Código Grupo de Productos;Grupo de Productos;Código Producto;Producto
+0;1756;Animales Vivos;1756;Animales Vivos
+1;1714;Cultivos Primarios;1753;Cultivos Fibras Primaria
+2;1714;Cultivos Primarios;1730;Cultivos Oleaginosos Pri
+3;1714;Cultivos Primarios;1714;Cultivos Primarios
+4;Ganadería primaria;Ganadería primaria;1777;Cueros y pieles primarias
+5;1756;Animales Vivos;1107;Asnos
+6;1756;Animales Vivos;1107;Asnos
+7;1756;Animales Vivos;2029;Aves de corral
+8;1756;Animales Vivos;946;B?falos
+9;1756;Animales Vivos;946;B?falos
+10;1756;Animales Vivos;1096;Caballos
+11;1756;Animales Vivos;1096;Caballos
+12;1756;Animales Vivos;1157;Cam?lidos, otros
+13;1756;Animales Vivos;1157;Cam?lidos, otros
+14;1756;Animales Vivos;1126;Camellos
+15;1756;Animales Vivos;1126;Camellos
+16;1756;Animales Vivos;1016;Caprinos
+17;1756;Animales Vivos;1016;Caprinos
+18;1756;Animales Vivos;1034;Cerdos
+19;1756;Animales Vivos;1034;Cerdos
+20;1756;Animales Vivos;1181;Colmenas
+21;1756;Animales Vivos;1140;Conejos y liebres
+22;1756;Animales Vivos;1140;Conejos y liebres
+23;1756;Animales Vivos;1057;Gallinas
+24;1756;Animales Vivos;1057;Gallinas
+25;1756;Animales Vivos;866;Ganado vacuno
+26;1756;Animales Vivos;866;Ganado vacuno
+27;1756;Animales Vivos;1072;Gansos y pintadas
+28;1756;Animales Vivos;1072;Gansos y pintadas
+29;1756;Animales Vivos;1110;Mulas
+30;1756;Animales Vivos;1110;Mulas
+31;1756;Animales Vivos;1749;Ovejas y cabras
+32;1756;Animales Vivos;976;Ovinos
+33;1756;Animales Vivos;976;Ovinos
+34;1756;Animales Vivos;1083;Palomas y otras aves
+35;1756;Animales Vivos;1083;Palomas y otras aves
+36;1756;Animales Vivos;1068;Patos
+37;1756;Animales Vivos;1068;Patos
+38;1756;Animales Vivos;1079;Pavos
+39;1756;Animales Vivos;1079;Pavos
+40;1756;Animales Vivos;1150;Roedores, otros
+41;1756;Animales Vivos;1150;Roedores, otros
+42;1756;Animales Vivos;1746;Vacas y búfalos
+43;2029;Aves de corral;1057;Gallinas
+44;2029;Aves de corral;1072;Gansos y pintadas
+45;2029;Aves de corral;1083;Palomas y otras aves
+46;2029;Aves de corral;1068;Patos
+47;2029;Aves de corral;1079;Pavos
+48;1808;Carne de Aves de Corral;1073;Carne, ganso, gallina pintada
+49;1808;Carne de Aves de Corral;1089;Carne, paloma y otras aves nep
+50;1808;Carne de Aves de Corral;1069;Carne, pato
+51;1808;Carne de Aves de Corral;1080;Carne, pavo
+52;1808;Carne de Aves de Corral;1058;Carne, pollo
+53;1807;Carne Ovina y de Cabra;1017;Carne, caprino
+54;1807;Carne Ovina y de Cabra;977;Carne, ovino
+55;1806;Carne Vacuna y de Búfalo;947;Carne, b?falo
+56;1806;Carne Vacuna y de Búfalo;867;Carne, ganado vacuno
+57;1765;Carne, total;1176;Caracoles distintos de los de mar
+58;1765;Carne, total;1166;Carne nep
+59;1765;Carne, total;1108;Carne, asno
+60;1765;Carne, total;947;Carne, b?falo
+61;1765;Carne, total;1097;Carne, caballo
+62;1765;Carne, total;1127;Carne, camello
+63;1765;Carne, total;1017;Carne, caprino
+64;1765;Carne, total;1163;Carne, caza
+65;1765;Carne, total;1035;Carne, cerdo
+66;1765;Carne, total;1141;Carne, conejo
+67;1765;Carne, total;867;Carne, ganado vacuno
+68;1765;Carne, total;1073;Carne, ganso, gallina pintada
+69;1765;Carne, total;1111;Carne, mula
+70;1765;Carne, total;1158;Carne, otros cam?lidos
+71;1765;Carne, total;1151;Carne, otros roedores
+72;1765;Carne, total;977;Carne, ovino
+73;1765;Carne, total;1089;Carne, paloma y otras aves nep
+74;1765;Carne, total;1069;Carne, pato
+75;1765;Carne, total;1080;Carne, pavo
+76;1765;Carne, total;1058;Carne, pollo
+77;1765;Carne, total;1083;Palomas y otras aves
+78;1717;Cereales, total;101;Alpiste
+79;1717;Cereales, total;27;Arroz, cascara
+80;1717;Cereales, total;75;Avena
+81;1717;Cereales, total;44;Cebada
+82;1717;Cereales, total;71;Centeno
+83;1717;Cereales, total;108;Cereales nep
+84;1717;Cereales, total;103;Cereales, mezcla
+85;1717;Cereales, total;94;Digitaria
+86;1717;Cereales, total;56;Maiz
+87;1717;Cereales, total;79;Mijo
+88;1717;Cereales, total;92;Quinua
+89;1717;Cereales, total;83;Sorgo
+90;1717;Cereales, total;15;Trigo
+91;1717;Cereales, total;89;Trigo sarraceno, alforfon
+92;1717;Cereales, total;97;Triticale
+93;1804;Cítricos, total;512;Fruta citrica nep
+94;1804;Cítricos, total;497;Limones y limas
+95;1804;Cítricos, total;490;Naranjas
+96;1804;Cítricos, total;495;Tangerinas, mandarinas, clementinas, satsumas
+97;1804;Cítricos, total;507;Toronja y pomelo
+98;1777;Cueros y pieles primarias;957;Cueros, bufalo frescos
+99;1777;Cueros y pieles primarias;919;Cueros, vacuno, frescos
+100;1777;Cueros y pieles primarias;1025;Pieles, caprino, frescas
+101;1777;Cueros y pieles primarias;995;Pieles, ovino, frescas
+102;1723;Cultivos Azúcar en Bruto;156;Azucar, ca?a
+103;1723;Cultivos Azúcar en Bruto;161;Azucar, cultivos nep
+104;1723;Cultivos Azúcar en Bruto;157;Azucar, remolacha
+105;Cultivos Derivados;Cultivos Derivados;331;Aceite, algod?n
+106;Cultivos Derivados;Cultivos Derivados;258;Aceite, almendra de palma
+107;Cultivos Derivados;Cultivos Derivados;281;Aceite, c?rtamo, alazor
+108;Cultivos Derivados;Cultivos Derivados;271;Aceite, colza
+109;Cultivos Derivados;Cultivos Derivados;252;Aceite, copra
+110;Cultivos Derivados;Cultivos Derivados;268;Aceite, girasol
+111;Cultivos Derivados;Cultivos Derivados;334;Aceite, linaza
+112;Cultivos Derivados;Cultivos Derivados;60;Aceite, ma?z
+113;Cultivos Derivados;Cultivos Derivados;244;Aceite, man?
+114;Cultivos Derivados;Cultivos Derivados;261;Aceite, oliva virgen
+115;Cultivos Derivados;Cultivos Derivados;257;Aceite, palma
+116;Cultivos Derivados;Cultivos Derivados;290;Aceite, s?samo
+117;Cultivos Derivados;Cultivos Derivados;237;Aceite, soja
+118;Cultivos Derivados;Cultivos Derivados;767;Algod?n, fibra
+119;Cultivos Derivados;Cultivos Derivados;256;Almendra de palma
+120;Cultivos Derivados;Cultivos Derivados;162;Azuc Cent Nr
+121;Cultivos Derivados;Cultivos Derivados;51;Cerveza de cebada
+122;Cultivos Derivados;Cultivos Derivados;778;Kapok, fibra
+123;Cultivos Derivados;Cultivos Derivados;311;Kapok, semilla, con cascara
+124;Cultivos Derivados;Cultivos Derivados;1242;Margarina y grasa de cocinar
+125;Cultivos Derivados;Cultivos Derivados;165;Melazas
+126;Cultivos Derivados;Cultivos Derivados;329;Semilla de algod?n
+127;Cultivos Derivados;Cultivos Derivados;564;Vino
+128;1753;Cultivos Fibras Primaria;809;Abaca, ca?amo de manila
+129;1753;Cultivos Fibras Primaria;800;Agave, fibras nep
+130;1753;Cultivos Fibras Primaria;767;Algod?n, fibra
+131;1753;Cultivos Fibras Primaria;777;C??amo, estopa y desechos
+132;1753;Cultivos Fibras Primaria;782;Fibras semejantes al yute
+133;1753;Cultivos Fibras Primaria;821;Fibras, cultivos nep
+134;1753;Cultivos Fibras Primaria;310;Kapok
+135;1753;Cultivos Fibras Primaria;773;Lino, fibra y estopa
+136;1753;Cultivos Fibras Primaria;788;Ramio
+137;1753;Cultivos Fibras Primaria;789;Sisal
+138;1753;Cultivos Fibras Primaria;780;Yute
+139;1730;Cultivos Oleaginosos Pri;254;Aceite, nuez de palma
+140;1730;Cultivos Oleaginosos Pri;260;Aceitunas, olivas
+141;1730;Cultivos Oleaginosos Pri;328;Algod?n con semilla
+142;1730;Cultivos Oleaginosos Pri;336;Ca?am?n
+143;1730;Cultivos Oleaginosos Pri;270;Colza
+144;1730;Cultivos Oleaginosos Pri;310;Kapok
+145;1730;Cultivos Oleaginosos Pri;333;Linaza
+146;1730;Cultivos Oleaginosos Pri;242;Man?s (cacahuete) con c?scara
+147;1730;Cultivos Oleaginosos Pri;263;Nueces de karit?
+148;1730;Cultivos Oleaginosos Pri;275;Nueces de tung
+149;1730;Cultivos Oleaginosos Pri;249;Nuez de coco
+150;1730;Cultivos Oleaginosos Pri;265;Ricino, semillas
+151;1730;Cultivos Oleaginosos Pri;296;Semilla de adormidera
+152;1730;Cultivos Oleaginosos Pri;280;Semilla de cartamo, alazor
+153;1730;Cultivos Oleaginosos Pri;267;Semilla de girasol
+154;1730;Cultivos Oleaginosos Pri;299;Semilla de mel?n
+155;1730;Cultivos Oleaginosos Pri;292;Semilla de mostaza
+156;1730;Cultivos Oleaginosos Pri;289;Semilla de s?samo, ajonjol?
+157;1730;Cultivos Oleaginosos Pri;277;Semillas de jojoba
+158;1730;Cultivos Oleaginosos Pri;305;Semillas del arbol del sebo
+159;1730;Cultivos Oleaginosos Pri;339;Semillas oleaginosas nep
+160;1730;Cultivos Oleaginosos Pri;236;Soja
+161;1732;Cultivos oleaginosos, equivalente aceite;254;Aceite, nuez de palma
+162;1732;Cultivos oleaginosos, equivalente aceite;260;Aceitunas, olivas
+163;1732;Cultivos oleaginosos, equivalente aceite;328;Algod?n con semilla
+164;1732;Cultivos oleaginosos, equivalente aceite;336;Ca?am?n
+165;1732;Cultivos oleaginosos, equivalente aceite;270;Colza
+166;1732;Cultivos oleaginosos, equivalente aceite;310;Kapok
+167;1732;Cultivos oleaginosos, equivalente aceite;333;Linaza
+168;1732;Cultivos oleaginosos, equivalente aceite;242;Man?s (cacahuete) con c?scara
+169;1732;Cultivos oleaginosos, equivalente aceite;263;Nueces de karit?
+170;1732;Cultivos oleaginosos, equivalente aceite;275;Nueces de tung
+171;1732;Cultivos oleaginosos, equivalente aceite;249;Nuez de coco
+172;1732;Cultivos oleaginosos, equivalente aceite;265;Ricino, semillas
+173;1732;Cultivos oleaginosos, equivalente aceite;296;Semilla de adormidera
+174;1732;Cultivos oleaginosos, equivalente aceite;280;Semilla de cartamo, alazor
+175;1732;Cultivos oleaginosos, equivalente aceite;267;Semilla de girasol
+176;1732;Cultivos oleaginosos, equivalente aceite;299;Semilla de mel?n
+177;1732;Cultivos oleaginosos, equivalente aceite;292;Semilla de mostaza
+178;1732;Cultivos oleaginosos, equivalente aceite;289;Semilla de s?samo, ajonjol?
+179;1732;Cultivos oleaginosos, equivalente aceite;277;Semillas de jojoba
+180;1732;Cultivos oleaginosos, equivalente aceite;305;Semillas del arbol del sebo
+181;1732;Cultivos oleaginosos, equivalente aceite;339;Semillas oleaginosas nep
+182;1732;Cultivos oleaginosos, equivalente aceite;236;Soja
+183;1841;Cultivos oleaginosos, equivalente tortas;254;Aceite, nuez de palma
+184;1841;Cultivos oleaginosos, equivalente tortas;328;Algod?n con semilla
+185;1841;Cultivos oleaginosos, equivalente tortas;336;Ca?am?n
+186;1841;Cultivos oleaginosos, equivalente tortas;270;Colza
+187;1841;Cultivos oleaginosos, equivalente tortas;310;Kapok
+188;1841;Cultivos oleaginosos, equivalente tortas;333;Linaza
+189;1841;Cultivos oleaginosos, equivalente tortas;242;Man?s (cacahuete) con c?scara
+190;1841;Cultivos oleaginosos, equivalente tortas;249;Nuez de coco
+191;1841;Cultivos oleaginosos, equivalente tortas;296;Semilla de adormidera
+192;1841;Cultivos oleaginosos, equivalente tortas;280;Semilla de cartamo, alazor
+193;1841;Cultivos oleaginosos, equivalente tortas;267;Semilla de girasol
+194;1841;Cultivos oleaginosos, equivalente tortas;299;Semilla de mel?n
+195;1841;Cultivos oleaginosos, equivalente tortas;292;Semilla de mostaza
+196;1841;Cultivos oleaginosos, equivalente tortas;289;Semilla de s?samo, ajonjol?
+197;1841;Cultivos oleaginosos, equivalente tortas;339;Semillas oleaginosas nep
+198;1841;Cultivos oleaginosos, equivalente tortas;236;Soja
+199;1714;Cultivos Primarios;809;Abaca, ca?amo de manila
+200;1714;Cultivos Primarios;809;Abaca, ca?amo de manila
+201;1714;Cultivos Primarios;254;Aceite, nuez de palma
+202;1714;Cultivos Primarios;254;Aceite, nuez de palma
+203;1714;Cultivos Primarios;260;Aceitunas, olivas
+204;1714;Cultivos Primarios;260;Aceitunas, olivas
+205;1714;Cultivos Primarios;800;Agave, fibras nep
+206;1714;Cultivos Primarios;800;Agave, fibras nep
+207;1714;Cultivos Primarios;572;Aguacates
+208;1714;Cultivos Primarios;572;Aguacates
+209;1714;Cultivos Primarios;406;Ajo
+210;1714;Cultivos Primarios;406;Ajo
+211;1714;Cultivos Primarios;526;Albaricoques
+212;1714;Cultivos Primarios;526;Albaricoques
+213;1714;Cultivos Primarios;366;Alcachofas
+214;1714;Cultivos Primarios;366;Alcachofas
+215;1714;Cultivos Primarios;461;Algarrobas
+216;1714;Cultivos Primarios;461;Algarrobas
+217;1714;Cultivos Primarios;328;Algod?n con semilla
+218;1714;Cultivos Primarios;328;Algod?n con semilla
+219;1714;Cultivos Primarios;221;Almendras con c?scara
+220;1714;Cultivos Primarios;221;Almendras con c?scara
+221;1714;Cultivos Primarios;101;Alpiste
+222;1714;Cultivos Primarios;101;Alpiste
+223;1714;Cultivos Primarios;210;Altramuz
+224;1714;Cultivos Primarios;210;Altramuz
+225;1714;Cultivos Primarios;217;Anacardos, con c?scara
+226;1714;Cultivos Primarios;217;Anacardos, con c?scara
+227;1714;Cultivos Primarios;711;An?s, badi?n, hinojo, cilantro
+228;1714;Cultivos Primarios;711;An?s, badi?n, hinojo, cilantro
+229;1714;Cultivos Primarios;552;Ar?ndanos
+230;1714;Cultivos Primarios;552;Ar?ndanos
+231;1714;Cultivos Primarios;554;Ar?ndanos trepadores
+232;1714;Cultivos Primarios;554;Ar?ndanos trepadores
+233;1714;Cultivos Primarios;27;Arroz, cascara
+234;1714;Cultivos Primarios;27;Arroz, cascara
+235;1714;Cultivos Primarios;30;Arroz, cascara (arroz elaborado equivalente)
+236;1714;Cultivos Primarios;225;Avellanas, con c?scara
+237;1714;Cultivos Primarios;225;Avellanas, con c?scara
+238;1714;Cultivos Primarios;75;Avena
+239;1714;Cultivos Primarios;75;Avena
+240;1714;Cultivos Primarios;156;Azucar, ca?a
+241;1714;Cultivos Primarios;156;Azucar, ca?a
+242;1714;Cultivos Primarios;161;Azucar, cultivos nep
+243;1714;Cultivos Primarios;161;Azucar, cultivos nep
+244;1714;Cultivos Primarios;157;Azucar, remolacha
+245;1714;Cultivos Primarios;157;Azucar, remolacha
+246;1714;Cultivos Primarios;203;Bambara
+247;1714;Cultivos Primarios;203;Bambara
+248;1714;Cultivos Primarios;486;Bananos
+249;1714;Cultivos Primarios;486;Bananos
+250;1714;Cultivos Primarios;122;Batatas, boniatos
+251;1714;Cultivos Primarios;122;Batatas, boniatos
+252;1714;Cultivos Primarios;558;Bayas nep
+253;1714;Cultivos Primarios;558;Bayas nep
+254;1714;Cultivos Primarios;399;Berenjenas
+255;1714;Cultivos Primarios;399;Berenjenas
+256;1714;Cultivos Primarios;813;Bonote
+257;1714;Cultivos Primarios;661;Cacao, en grano
+258;1714;Cultivos Primarios;661;Cacao, en grano
+259;1714;Cultivos Primarios;656;Caf?, verde
+260;1714;Cultivos Primarios;656;Caf?, verde
+261;1714;Cultivos Primarios;394;Calabazas, zapayo, calabaza confitera
+262;1714;Cultivos Primarios;394;Calabazas, zapayo, calabaza confitera
+263;1714;Cultivos Primarios;777;C??amo, estopa y desechos
+264;1714;Cultivos Primarios;777;C??amo, estopa y desechos
+265;1714;Cultivos Primarios;336;Ca?am?n
+266;1714;Cultivos Primarios;336;Ca?am?n
+267;1714;Cultivos Primarios;693;Canela
+268;1714;Cultivos Primarios;693;Canela
+269;1714;Cultivos Primarios;587;Caquis
+270;1714;Cultivos Primarios;587;Caquis
+271;1714;Cultivos Primarios;220;Casta?as
+272;1714;Cultivos Primarios;220;Casta?as
+273;1714;Cultivos Primarios;836;Caucho natural
+274;1714;Cultivos Primarios;836;Caucho natural
+275;1714;Cultivos Primarios;195;Caupis, secos
+276;1714;Cultivos Primarios;195;Caupis, secos
+277;1714;Cultivos Primarios;44;Cebada
+278;1714;Cultivos Primarios;44;Cebada
+279;1714;Cultivos Primarios;402;Cebollas, chalotes, verdes
+280;1714;Cultivos Primarios;402;Cebollas, chalotes, verdes
+281;1714;Cultivos Primarios;403;Cebollas, secas
+282;1714;Cultivos Primarios;403;Cebollas, secas
+283;1714;Cultivos Primarios;71;Centeno
+284;1714;Cultivos Primarios;71;Centeno
+285;1714;Cultivos Primarios;108;Cereales nep
+286;1714;Cultivos Primarios;108;Cereales nep
+287;1714;Cultivos Primarios;103;Cereales, mezcla
+288;1714;Cultivos Primarios;103;Cereales, mezcla
+289;1714;Cultivos Primarios;1717;Cereales, total
+290;1714;Cultivos Primarios;531;Cerezas
+291;1714;Cultivos Primarios;531;Cerezas
+292;1714;Cultivos Primarios;689;Chiles y pimientos, secos
+293;1714;Cultivos Primarios;689;Chiles y pimientos, secos
+294;1714;Cultivos Primarios;401;Chiles, pimientos picantes, pimientos (verdes)
+295;1714;Cultivos Primarios;401;Chiles, pimientos picantes, pimientos (verdes)
+296;1714;Cultivos Primarios;536;Ciruelas y endrinas
+297;1714;Cultivos Primarios;536;Ciruelas y endrinas
+298;1714;Cultivos Primarios;1804;Cítricos, total
+299;1714;Cultivos Primarios;698;Clavo de olor
+300;1714;Cultivos Primarios;698;Clavo de olor
+301;1714;Cultivos Primarios;358;Coles y otras cruc?feras
+302;1714;Cultivos Primarios;358;Coles y otras cruc?feras
+303;1714;Cultivos Primarios;393;Coliflor y br?col
+304;1714;Cultivos Primarios;393;Coliflor y br?col
+305;1714;Cultivos Primarios;270;Colza
+306;1714;Cultivos Primarios;270;Colza
+307;1714;Cultivos Primarios;1723;Cultivos Azúcar en Bruto
+308;1714;Cultivos Primarios;1732;Cultivos oleaginosos, equivalente aceite
+309;1714;Cultivos Primarios;1841;Cultivos oleaginosos, equivalente tortas
+310;1714;Cultivos Primarios;577;D?tiles
+311;1714;Cultivos Primarios;577;D?tiles
+312;1714;Cultivos Primarios;94;Digitaria
+313;1714;Cultivos Primarios;94;Digitaria
+314;1714;Cultivos Primarios;367;Esparragos
+315;1714;Cultivos Primarios;367;Esparragos
+316;1714;Cultivos Primarios;723;Especias nep
+317;1714;Cultivos Primarios;723;Especias nep
+318;1714;Cultivos Primarios;373;Espinacas
+319;1714;Cultivos Primarios;373;Espinacas
+320;1714;Cultivos Primarios;782;Fibras semejantes al yute
+321;1714;Cultivos Primarios;782;Fibras semejantes al yute
+322;1714;Cultivos Primarios;821;Fibras, cultivos nep
+323;1714;Cultivos Primarios;821;Fibras, cultivos nep
+324;1714;Cultivos Primarios;547;Frambuesas
+325;1714;Cultivos Primarios;547;Frambuesas
+326;1714;Cultivos Primarios;544;Fresas
+327;1714;Cultivos Primarios;544;Fresas
+328;1714;Cultivos Primarios;176;Frijoles, secos
+329;1714;Cultivos Primarios;176;Frijoles, secos
+330;1714;Cultivos Primarios;512;Fruta citrica nep
+331;1714;Cultivos Primarios;512;Fruta citrica nep
+332;1714;Cultivos Primarios;541;Fruta, drupas nep
+333;1714;Cultivos Primarios;541;Fruta, drupas nep
+334;1714;Cultivos Primarios;619;Fruta, fresca nep
+335;1714;Cultivos Primarios;619;Fruta, fresca nep
+336;1714;Cultivos Primarios;603;Fruta, tropical (fresca) nep
+337;1714;Cultivos Primarios;603;Fruta, tropical (fresca) nep
+338;1714;Cultivos Primarios;1738;Frutas Primaria
+339;1714;Cultivos Primarios;542;Frutas, pom?ceas nep
+340;1714;Cultivos Primarios;542;Frutas, pom?ceas nep
+341;1714;Cultivos Primarios;191;Garbanzos
+342;1714;Cultivos Primarios;191;Garbanzos
+343;1714;Cultivos Primarios;839;Gomas naturales
+344;1714;Cultivos Primarios;839;Gomas naturales
+345;1714;Cultivos Primarios;430;Gombo
+346;1714;Cultivos Primarios;430;Gombo
+347;1714;Cultivos Primarios;550;Grosellas
+348;1714;Cultivos Primarios;550;Grosellas
+349;1714;Cultivos Primarios;197;Guandu
+350;1714;Cultivos Primarios;197;Guandu
+351;1714;Cultivos Primarios;530;Guindas
+352;1714;Cultivos Primarios;530;Guindas
+353;1714;Cultivos Primarios;187;Guisantes, secos
+354;1714;Cultivos Primarios;187;Guisantes, secos
+355;1714;Cultivos Primarios;417;Guisantes, verdes
+356;1714;Cultivos Primarios;417;Guisantes, verdes
+357;1714;Cultivos Primarios;181;Haba comun y haba caballar secas
+358;1714;Cultivos Primarios;181;Haba comun y haba caballar secas
+359;1714;Cultivos Primarios;569;Higos
+360;1714;Cultivos Primarios;569;Higos
+361;1714;Cultivos Primarios;449;Hongos y trufas
+362;1714;Cultivos Primarios;449;Hongos y trufas
+363;1714;Cultivos Primarios;1735;Hortaliz Prim Exc Melon
+364;1714;Cultivos Primarios;420;Hortalizas leguminosas nep
+365;1714;Cultivos Primarios;420;Hortalizas leguminosas nep
+366;1714;Cultivos Primarios;463;Hortalizas, frescas nep
+367;1714;Cultivos Primarios;463;Hortalizas, frescas nep
+368;1714;Cultivos Primarios;720;Jengibre
+369;1714;Cultivos Primarios;720;Jengibre
+370;1714;Cultivos Primarios;423;Jud?as verdes con hilo
+371;1714;Cultivos Primarios;423;Jud?as verdes con hilo
+372;1714;Cultivos Primarios;414;Judias, verdes
+373;1714;Cultivos Primarios;414;Judias, verdes
+374;1714;Cultivos Primarios;310;Kapok
+375;1714;Cultivos Primarios;310;Kapok
+376;1714;Cultivos Primarios;592;Kiwis
+377;1714;Cultivos Primarios;592;Kiwis
+378;1714;Cultivos Primarios;372;Lechuga y achicoria
+379;1714;Cultivos Primarios;372;Lechuga y achicoria
+380;1714;Cultivos Primarios;211;Legumbres nep
+381;1714;Cultivos Primarios;211;Legumbres nep
+382;1714;Cultivos Primarios;1726;Legumbres Secas, total
+383;1714;Cultivos Primarios;201;Lentejas
+384;1714;Cultivos Primarios;201;Lentejas
+385;1714;Cultivos Primarios;497;Limones y limas
+386;1714;Cultivos Primarios;497;Limones y limas
+387;1714;Cultivos Primarios;333;Linaza
+388;1714;Cultivos Primarios;333;Linaza
+389;1714;Cultivos Primarios;773;Lino, fibra y estopa
+390;1714;Cultivos Primarios;773;Lino, fibra y estopa
+391;1714;Cultivos Primarios;677;L?pulo
+392;1714;Cultivos Primarios;677;L?pulo
+393;1714;Cultivos Primarios;56;Maiz
+394;1714;Cultivos Primarios;56;Maiz
+395;1714;Cultivos Primarios;446;Ma?z verde
+396;1714;Cultivos Primarios;446;Ma?z verde
+397;1714;Cultivos Primarios;571;Mangos, mangostanes y guayabas
+398;1714;Cultivos Primarios;571;Mangos, mangostanes y guayabas
+399;1714;Cultivos Primarios;242;Man?s (cacahuete) con c?scara
+400;1714;Cultivos Primarios;242;Man?s (cacahuete) con c?scara
+401;1714;Cultivos Primarios;591;Manzana de acaj?
+402;1714;Cultivos Primarios;591;Manzana de acaj?
+403;1714;Cultivos Primarios;515;Manzanas
+404;1714;Cultivos Primarios;515;Manzanas
+405;1714;Cultivos Primarios;671;Mate
+406;1714;Cultivos Primarios;671;Mate
+407;1714;Cultivos Primarios;534;Melocotones (duraznos) y nectarinas
+408;1714;Cultivos Primarios;534;Melocotones (duraznos) y nectarinas
+409;1714;Cultivos Primarios;568;Melones, otros (incl. cantaloupe)
+410;1714;Cultivos Primarios;568;Melones, otros (incl. cantaloupe)
+411;1714;Cultivos Primarios;523;Membrillos
+412;1714;Cultivos Primarios;523;Membrillos
+413;1714;Cultivos Primarios;748;Menta, hierbabuena
+414;1714;Cultivos Primarios;748;Menta, hierbabuena
+415;1714;Cultivos Primarios;79;Mijo
+416;1714;Cultivos Primarios;79;Mijo
+417;1714;Cultivos Primarios;137;?ames
+418;1714;Cultivos Primarios;137;?ames
+419;1714;Cultivos Primarios;490;Naranjas
+420;1714;Cultivos Primarios;490;Naranjas
+421;1714;Cultivos Primarios;1729;Nueces (Toda Clase), tot
+422;1714;Cultivos Primarios;222;Nueces con c?scara
+423;1714;Cultivos Primarios;222;Nueces con c?scara
+424;1714;Cultivos Primarios;226;Nueces de areca
+425;1714;Cultivos Primarios;226;Nueces de areca
+426;1714;Cultivos Primarios;263;Nueces de karit?
+427;1714;Cultivos Primarios;263;Nueces de karit?
+428;1714;Cultivos Primarios;275;Nueces de tung
+429;1714;Cultivos Primarios;275;Nueces de tung
+430;1714;Cultivos Primarios;216;Nueces del brasil con c?scara
+431;1714;Cultivos Primarios;216;Nueces del brasil con c?scara
+432;1714;Cultivos Primarios;234;Nueces nep
+433;1714;Cultivos Primarios;234;Nueces nep
+434;1714;Cultivos Primarios;249;Nuez de coco
+435;1714;Cultivos Primarios;249;Nuez de coco
+436;1714;Cultivos Primarios;224;Nuez de cola
+437;1714;Cultivos Primarios;224;Nuez de cola
+438;1714;Cultivos Primarios;702;Nuez moscada, macis, cardamomo
+439;1714;Cultivos Primarios;702;Nuez moscada, macis, cardamomo
+440;1714;Cultivos Primarios;116;Papas, patatas
+441;1714;Cultivos Primarios;116;Papas, patatas
+442;1714;Cultivos Primarios;600;Papayas
+443;1714;Cultivos Primarios;600;Papayas
+444;1714;Cultivos Primarios;754;Pelitre, flores secas
+445;1714;Cultivos Primarios;754;Pelitre, flores secas
+446;1714;Cultivos Primarios;397;Pepinos, pepinillos
+447;1714;Cultivos Primarios;397;Pepinos, pepinillos
+448;1714;Cultivos Primarios;521;Peras
+449;1714;Cultivos Primarios;521;Peras
+450;1714;Cultivos Primarios;687;Pimienta (piper spp.)
+451;1714;Cultivos Primarios;687;Pimienta (piper spp.)
+452;1714;Cultivos Primarios;574;Pi?a tropical
+453;1714;Cultivos Primarios;574;Pi?a tropical
+454;1714;Cultivos Primarios;223;Pistachos
+455;1714;Cultivos Primarios;223;Pistachos
+456;1714;Cultivos Primarios;489;Pl?tanos y otros
+457;1714;Cultivos Primarios;489;Pl?tanos y otros
+458;1714;Cultivos Primarios;407;Puerros y otras ali?ceas
+459;1714;Cultivos Primarios;407;Puerros y otras ali?ceas
+460;1714;Cultivos Primarios;92;Quinua
+461;1714;Cultivos Primarios;92;Quinua
+462;1714;Cultivos Primarios;459;Ra?ces de achicoria
+463;1714;Cultivos Primarios;459;Ra?ces de achicoria
+464;1714;Cultivos Primarios;149;Raices y tuberculos nep
+465;1714;Cultivos Primarios;149;Raices y tuberculos nep
+466;1714;Cultivos Primarios;1720;Raíces&Tubérculos, total
+467;1714;Cultivos Primarios;788;Ramio
+468;1714;Cultivos Primarios;788;Ramio
+469;1714;Cultivos Primarios;265;Ricino, semillas
+470;1714;Cultivos Primarios;265;Ricino, semillas
+471;1714;Cultivos Primarios;567;Sand?as
+472;1714;Cultivos Primarios;567;Sand?as
+473;1714;Cultivos Primarios;296;Semilla de adormidera
+474;1714;Cultivos Primarios;296;Semilla de adormidera
+475;1714;Cultivos Primarios;280;Semilla de cartamo, alazor
+476;1714;Cultivos Primarios;280;Semilla de cartamo, alazor
+477;1714;Cultivos Primarios;267;Semilla de girasol
+478;1714;Cultivos Primarios;267;Semilla de girasol
+479;1714;Cultivos Primarios;299;Semilla de mel?n
+480;1714;Cultivos Primarios;299;Semilla de mel?n
+481;1714;Cultivos Primarios;292;Semilla de mostaza
+482;1714;Cultivos Primarios;292;Semilla de mostaza
+483;1714;Cultivos Primarios;289;Semilla de s?samo, ajonjol?
+484;1714;Cultivos Primarios;289;Semilla de s?samo, ajonjol?
+485;1714;Cultivos Primarios;277;Semillas de jojoba
+486;1714;Cultivos Primarios;277;Semillas de jojoba
+487;1714;Cultivos Primarios;305;Semillas del arbol del sebo
+488;1714;Cultivos Primarios;305;Semillas del arbol del sebo
+489;1714;Cultivos Primarios;339;Semillas oleaginosas nep
+490;1714;Cultivos Primarios;339;Semillas oleaginosas nep
+491;1714;Cultivos Primarios;789;Sisal
+492;1714;Cultivos Primarios;789;Sisal
+493;1714;Cultivos Primarios;236;Soja
+494;1714;Cultivos Primarios;236;Soja
+495;1714;Cultivos Primarios;83;Sorgo
+496;1714;Cultivos Primarios;83;Sorgo
+497;1714;Cultivos Primarios;826;Tabaco bruto
+498;1714;Cultivos Primarios;826;Tabaco bruto
+499;1714;Cultivos Primarios;495;Tangerinas, mandarinas, clementinas, satsumas
+500;1714;Cultivos Primarios;495;Tangerinas, mandarinas, clementinas, satsumas
+501;1714;Cultivos Primarios;136;Taro (cocoyam)
+502;1714;Cultivos Primarios;136;Taro (cocoyam)
+503;1714;Cultivos Primarios;667;T?
+504;1714;Cultivos Primarios;667;T?
+505;1714;Cultivos Primarios;388;Tomates, frescos
+506;1714;Cultivos Primarios;388;Tomates, frescos
+507;1714;Cultivos Primarios;507;Toronja y pomelo
+508;1714;Cultivos Primarios;507;Toronja y pomelo
+509;1714;Cultivos Primarios;15;Trigo
+510;1714;Cultivos Primarios;15;Trigo
+511;1714;Cultivos Primarios;89;Trigo sarraceno, alforfon
+512;1714;Cultivos Primarios;89;Trigo sarraceno, alforfon
+513;1714;Cultivos Primarios;97;Triticale
+514;1714;Cultivos Primarios;97;Triticale
+515;1714;Cultivos Primarios;549;Uva espina
+516;1714;Cultivos Primarios;549;Uva espina
+517;1714;Cultivos Primarios;560;Uvas
+518;1714;Cultivos Primarios;560;Uvas
+519;1714;Cultivos Primarios;692;Vainilla
+520;1714;Cultivos Primarios;692;Vainilla
+521;1714;Cultivos Primarios;205;Veza
+522;1714;Cultivos Primarios;205;Veza
+523;1714;Cultivos Primarios;135;Yautia (cocoyam)
+524;1714;Cultivos Primarios;135;Yautia (cocoyam)
+525;1714;Cultivos Primarios;125;Yuca
+526;1714;Cultivos Primarios;125;Yuca
+527;1714;Cultivos Primarios;378;Yuca, hojas
+528;1714;Cultivos Primarios;780;Yute
+529;1714;Cultivos Primarios;780;Yute
+530;1714;Cultivos Primarios;426;Zanahorias y nabos
+531;1714;Cultivos Primarios;426;Zanahorias y nabos
+532;1738;Frutas Primaria;572;Aguacates
+533;1738;Frutas Primaria;526;Albaricoques
+534;1738;Frutas Primaria;461;Algarrobas
+535;1738;Frutas Primaria;552;Ar?ndanos
+536;1738;Frutas Primaria;554;Ar?ndanos trepadores
+537;1738;Frutas Primaria;486;Bananos
+538;1738;Frutas Primaria;558;Bayas nep
+539;1738;Frutas Primaria;587;Caquis
+540;1738;Frutas Primaria;531;Cerezas
+541;1738;Frutas Primaria;536;Ciruelas y endrinas
+542;1738;Frutas Primaria;577;D?tiles
+543;1738;Frutas Primaria;547;Frambuesas
+544;1738;Frutas Primaria;544;Fresas
+545;1738;Frutas Primaria;512;Fruta citrica nep
+546;1738;Frutas Primaria;541;Fruta, drupas nep
+547;1738;Frutas Primaria;619;Fruta, fresca nep
+548;1738;Frutas Primaria;603;Fruta, tropical (fresca) nep
+549;1738;Frutas Primaria;542;Frutas, pom?ceas nep
+550;1738;Frutas Primaria;550;Grosellas
+551;1738;Frutas Primaria;530;Guindas
+552;1738;Frutas Primaria;569;Higos
+553;1738;Frutas Primaria;592;Kiwis
+554;1738;Frutas Primaria;497;Limones y limas
+555;1738;Frutas Primaria;571;Mangos, mangostanes y guayabas
+556;1738;Frutas Primaria;591;Manzana de acaj?
+557;1738;Frutas Primaria;515;Manzanas
+558;1738;Frutas Primaria;534;Melocotones (duraznos) y nectarinas
+559;1738;Frutas Primaria;568;Melones, otros (incl. cantaloupe)
+560;1738;Frutas Primaria;523;Membrillos
+561;1738;Frutas Primaria;490;Naranjas
+562;1738;Frutas Primaria;600;Papayas
+563;1738;Frutas Primaria;521;Peras
+564;1738;Frutas Primaria;574;Pi?a tropical
+565;1738;Frutas Primaria;489;Pl?tanos y otros
+566;1738;Frutas Primaria;567;Sand?as
+567;1738;Frutas Primaria;495;Tangerinas, mandarinas, clementinas, satsumas
+568;1738;Frutas Primaria;507;Toronja y pomelo
+569;1738;Frutas Primaria;549;Uva espina
+570;1738;Frutas Primaria;560;Uvas
+571;Ganadería primaria;Ganadería primaria;1185;Capullos devanables
+572;Ganadería primaria;Ganadería primaria;1176;Caracoles distintos de los de mar
+573;Ganadería primaria;Ganadería primaria;1808;Carne de Aves de Corral
+574;Ganadería primaria;Ganadería primaria;1166;Carne nep
+575;Ganadería primaria;Ganadería primaria;1807;Carne Ovina y de Cabra
+576;Ganadería primaria;Ganadería primaria;1806;Carne Vacuna y de Búfalo
+577;Ganadería primaria;Ganadería primaria;1108;Carne, asno
+578;Ganadería primaria;Ganadería primaria;947;Carne, b?falo
+579;Ganadería primaria;Ganadería primaria;1097;Carne, caballo
+580;Ganadería primaria;Ganadería primaria;1127;Carne, camello
+581;Ganadería primaria;Ganadería primaria;1017;Carne, caprino
+582;Ganadería primaria;Ganadería primaria;1163;Carne, caza
+583;Ganadería primaria;Ganadería primaria;1035;Carne, cerdo
+584;Ganadería primaria;Ganadería primaria;1141;Carne, conejo
+585;Ganadería primaria;Ganadería primaria;867;Carne, ganado vacuno
+586;Ganadería primaria;Ganadería primaria;1073;Carne, ganso, gallina pintada
+587;Ganadería primaria;Ganadería primaria;1111;Carne, mula
+588;Ganadería primaria;Ganadería primaria;1158;Carne, otros cam?lidos
+589;Ganadería primaria;Ganadería primaria;1151;Carne, otros roedores
+590;Ganadería primaria;Ganadería primaria;977;Carne, ovino
+591;Ganadería primaria;Ganadería primaria;1089;Carne, paloma y otras aves nep
+592;Ganadería primaria;Ganadería primaria;1069;Carne, pato
+593;Ganadería primaria;Ganadería primaria;1080;Carne, pavo
+594;Ganadería primaria;Ganadería primaria;1058;Carne, pollo
+595;Ganadería primaria;Ganadería primaria;1765;Carne, total
+596;Ganadería primaria;Ganadería primaria;1183;Cera de abeja
+597;Ganadería primaria;Ganadería primaria;957;Cueros, bufalo frescos
+598;Ganadería primaria;Ganadería primaria;919;Cueros, vacuno, frescos
+599;Ganadería primaria;Ganadería primaria;1098;Despojos, caballo
+600;Ganadería primaria;Ganadería primaria;948;Despojos, comestibles, b?falo
+601;Ganadería primaria;Ganadería primaria;1128;Despojos, comestibles, camello
+602;Ganadería primaria;Ganadería primaria;1018;Despojos, comestibles, caprino
+603;Ganadería primaria;Ganadería primaria;1036;Despojos, comestibles, cerdo
+604;Ganadería primaria;Ganadería primaria;978;Despojos, comestibles, ovino
+605;Ganadería primaria;Ganadería primaria;868;Despojos, comestibles, vacuno
+606;Ganadería primaria;Ganadería primaria;949;Grasa de b?falo
+607;Ganadería primaria;Ganadería primaria;1129;Grasa de camello
+608;Ganadería primaria;Ganadería primaria;1019;Grasa de caprino
+609;Ganadería primaria;Ganadería primaria;1037;Grasa de cerdo
+610;Ganadería primaria;Ganadería primaria;869;Grasa de ganado vacuno
+611;Ganadería primaria;Ganadería primaria;979;Grasa de ovino
+612;Ganadería primaria;Ganadería primaria;1062;Huevos de gallina
+613;Ganadería primaria;Ganadería primaria;1783;Huevos Naturales
+614;Ganadería primaria;Ganadería primaria;1091;Huevos, otras aves
+615;Ganadería primaria;Ganadería primaria;987;Lana grasa
+616;Ganadería primaria;Ganadería primaria;951;Leche, entera fresca, b?fala
+617;Ganadería primaria;Ganadería primaria;1020;Leche, entera fresca, cabra
+618;Ganadería primaria;Ganadería primaria;1130;Leche, entera fresca, camella
+619;Ganadería primaria;Ganadería primaria;982;Leche, entera fresca, oveja
+620;Ganadería primaria;Ganadería primaria;882;Leche, entera fresca, vaca
+621;Ganadería primaria;Ganadería primaria;1780;Leche, total
+622;Ganadería primaria;Ganadería primaria;1182;Miel natural
+623;Ganadería primaria;Ganadería primaria;1083;Palomas y otras aves
+624;Ganadería primaria;Ganadería primaria;1025;Pieles, caprino, frescas
+625;Ganadería primaria;Ganadería primaria;995;Pieles, ovino, frescas
+626;Ganadería procesada;Ganadería procesada;885;Crema/nata fresca
+627;Ganadería procesada;Ganadería procesada;953;Ghee, leche de b?fala
+628;Ganadería procesada;Ganadería procesada;887;Ghee, leche de vaca
+629;Ganadería procesada;Ganadería procesada;1809;Leche Desnat&Suero,Secas
+630;Ganadería procesada;Ganadería procesada;1816;Leche Evapor&Condensada
+631;Ganadería procesada;Ganadería procesada;896;Leche, desnatada condensada
+632;Ganadería procesada;Ganadería procesada;888;Leche, desnatada de vaca
+633;Ganadería procesada;Ganadería procesada;898;Leche, desnatada de vaca en polvo
+634;Ganadería procesada;Ganadería procesada;895;Leche, desnatada evaporada
+635;Ganadería procesada;Ganadería procesada;889;Leche, entera condensada
+636;Ganadería procesada;Ganadería procesada;897;Leche, entera de vaca en polvo
+637;Ganadería procesada;Ganadería procesada;894;Leche, entera evaporada
+638;Ganadería procesada;Ganadería procesada;899;Leche, suero de mantequilla en polvo
+639;Ganadería procesada;Ganadería procesada;1043;Manteca de cerdo
+640;Ganadería procesada;Ganadería procesada;952;Mantequilla de leche de b?fala
+641;Ganadería procesada;Ganadería procesada;1022;Mantequilla de leche de cabra
+642;Ganadería procesada;Ganadería procesada;886;Mantequilla de leche de vaca
+643;Ganadería procesada;Ganadería procesada;1811;Mantequilla y Ghee
+644;Ganadería procesada;Ganadería procesada;983;Mantequilla y ghee de leche de oveja
+645;Ganadería procesada;Ganadería procesada;1745;Queso (Todos tipos)
+646;Ganadería procesada;Ganadería procesada;955;Queso de leche de b?fala
+647;Ganadería procesada;Ganadería procesada;1021;Queso de leche de cabra
+648;Ganadería procesada;Ganadería procesada;984;Queso de leche de oveja
+649;Ganadería procesada;Ganadería procesada;904;Queso de leche desnatada de vaca
+650;Ganadería procesada;Ganadería procesada;901;Queso de leche entera de vaca
+651;Ganadería procesada;Ganadería procesada;1225;Sebo
+652;Ganadería procesada;Ganadería procesada;1186;Seda cruda
+653;Ganadería procesada;Ganadería procesada;890;Suero, condensado
+654;Ganadería procesada;Ganadería procesada;900;Suero, en polvo
+655;Ganadería procesada;Ganadería procesada;891;Yogur
+656;1735;Hortaliz Prim Exc Melon;406;Ajo
+657;1735;Hortaliz Prim Exc Melon;366;Alcachofas
+658;1735;Hortaliz Prim Exc Melon;399;Berenjenas
+659;1735;Hortaliz Prim Exc Melon;394;Calabazas, zapayo, calabaza confitera
+660;1735;Hortaliz Prim Exc Melon;402;Cebollas, chalotes, verdes
+661;1735;Hortaliz Prim Exc Melon;403;Cebollas, secas
+662;1735;Hortaliz Prim Exc Melon;401;Chiles, pimientos picantes, pimientos (verdes)
+663;1735;Hortaliz Prim Exc Melon;358;Coles y otras cruc?feras
+664;1735;Hortaliz Prim Exc Melon;393;Coliflor y br?col
+665;1735;Hortaliz Prim Exc Melon;367;Esparragos
+666;1735;Hortaliz Prim Exc Melon;373;Espinacas
+667;1735;Hortaliz Prim Exc Melon;430;Gombo
+668;1735;Hortaliz Prim Exc Melon;417;Guisantes, verdes
+669;1735;Hortaliz Prim Exc Melon;449;Hongos y trufas
+670;1735;Hortaliz Prim Exc Melon;420;Hortalizas leguminosas nep
+671;1735;Hortaliz Prim Exc Melon;463;Hortalizas, frescas nep
+672;1735;Hortaliz Prim Exc Melon;423;Jud?as verdes con hilo
+673;1735;Hortaliz Prim Exc Melon;414;Judias, verdes
+674;1735;Hortaliz Prim Exc Melon;372;Lechuga y achicoria
+675;1735;Hortaliz Prim Exc Melon;446;Ma?z verde
+676;1735;Hortaliz Prim Exc Melon;397;Pepinos, pepinillos
+677;1735;Hortaliz Prim Exc Melon;407;Puerros y otras ali?ceas
+678;1735;Hortaliz Prim Exc Melon;388;Tomates, frescos
+679;1735;Hortaliz Prim Exc Melon;378;Yuca, hojas
+680;1735;Hortaliz Prim Exc Melon;426;Zanahorias y nabos
+681;1783;Huevos Naturales;1062;Huevos de gallina
+682;1783;Huevos Naturales;1091;Huevos, otras aves
+683;1809;Leche Desnat&Suero,Secas;898;Leche, desnatada de vaca en polvo
+684;1809;Leche Desnat&Suero,Secas;899;Leche, suero de mantequilla en polvo
+685;1816;Leche Evapor&Condensada;896;Leche, desnatada condensada
+686;1816;Leche Evapor&Condensada;895;Leche, desnatada evaporada
+687;1816;Leche Evapor&Condensada;889;Leche, entera condensada
+688;1816;Leche Evapor&Condensada;894;Leche, entera evaporada
+689;1816;Leche Evapor&Condensada;890;Suero, condensado
+690;1780;Leche, total;951;Leche, entera fresca, b?fala
+691;1780;Leche, total;1020;Leche, entera fresca, cabra
+692;1780;Leche, total;1130;Leche, entera fresca, camella
+693;1780;Leche, total;982;Leche, entera fresca, oveja
+694;1780;Leche, total;882;Leche, entera fresca, vaca
+695;1726;Legumbres Secas, total;210;Altramuz
+696;1726;Legumbres Secas, total;203;Bambara
+697;1726;Legumbres Secas, total;195;Caupis, secos
+698;1726;Legumbres Secas, total;176;Frijoles, secos
+699;1726;Legumbres Secas, total;191;Garbanzos
+700;1726;Legumbres Secas, total;197;Guandu
+701;1726;Legumbres Secas, total;187;Guisantes, secos
+702;1726;Legumbres Secas, total;181;Haba comun y haba caballar secas
+703;1726;Legumbres Secas, total;211;Legumbres nep
+704;1726;Legumbres Secas, total;201;Lentejas
+705;1726;Legumbres Secas, total;205;Veza
+706;1811;Mantequilla y Ghee;953;Ghee, leche de b?fala
+707;1811;Mantequilla y Ghee;887;Ghee, leche de vaca
+708;1811;Mantequilla y Ghee;952;Mantequilla de leche de b?fala
+709;1811;Mantequilla y Ghee;1022;Mantequilla de leche de cabra
+710;1811;Mantequilla y Ghee;886;Mantequilla de leche de vaca
+711;1811;Mantequilla y Ghee;983;Mantequilla y ghee de leche de oveja
+712;1729;Nueces (Toda Clase), tot;221;Almendras con c?scara
+713;1729;Nueces (Toda Clase), tot;217;Anacardos, con c?scara
+714;1729;Nueces (Toda Clase), tot;225;Avellanas, con c?scara
+715;1729;Nueces (Toda Clase), tot;220;Casta?as
+716;1729;Nueces (Toda Clase), tot;222;Nueces con c?scara
+717;1729;Nueces (Toda Clase), tot;216;Nueces del brasil con c?scara
+718;1729;Nueces (Toda Clase), tot;234;Nueces nep
+719;1729;Nueces (Toda Clase), tot;223;Pistachos
+720;1749;Ovejas y cabras;1016;Caprinos
+721;1749;Ovejas y cabras;976;Ovinos
+722;1745;Queso (Todos tipos);955;Queso de leche de b?fala
+723;1745;Queso (Todos tipos);1021;Queso de leche de cabra
+724;1745;Queso (Todos tipos);984;Queso de leche de oveja
+725;1745;Queso (Todos tipos);904;Queso de leche desnatada de vaca
+726;1745;Queso (Todos tipos);901;Queso de leche entera de vaca
+727;1720;Raíces&Tubérculos, total;122;Batatas, boniatos
+728;1720;Raíces&Tubérculos, total;137;?ames
+729;1720;Raíces&Tubérculos, total;116;Papas, patatas
+730;1720;Raíces&Tubérculos, total;149;Raices y tuberculos nep
+731;1720;Raíces&Tubérculos, total;136;Taro (cocoyam)
+732;1720;Raíces&Tubérculos, total;135;Yautia (cocoyam)
+733;1720;Raíces&Tubérculos, total;125;Yuca
+734;1746;Vacas y búfalos;946;B?falos
+735;1746;Vacas y búfalos;866;Ganado vacuno
