@@ -1,4 +1,4 @@
-# Laura
+# EDA
 
 En este Eda, he analizado el consumo del agua en España, desde el año 2000 hasta el 2018.
 El principal motivo que me motivo a llevar a cabo este análisis exploratorio de datos ha sido la disminución continuada del agua en el planeta y concretamente en España.
