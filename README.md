@@ -1,6 +1,8 @@
 # EDA_Consumo_Agua_Nacional
 
-En este Eda, he analizado el consumo del agua en España, desde el año 2000 hasta el 2018.
+
+Eda realizado en el bootcamp de data science
+En este proyecto he analizado el consumo del agua en España, desde el año 2000 hasta el 2018.
 El principal motivo que me motivo a llevar a cabo este análisis exploratorio de datos ha sido la disminución continuada del agua en el planeta y concretamente en España.
 El agua es un bien que deberíamos cuidar ya que, si hacemos un uso debido de la misma, se va a convertir en un bien de lujo.
 En este EDA se analiza el consumo de:
